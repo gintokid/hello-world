@@ -1,2 +1,2 @@
 # hello-world
-Git hub tutorial
+I'm just some guy
